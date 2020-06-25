@@ -1,5 +1,5 @@
 # deocclusion_project
 
-only have url for coco images test2014. 
+only have urls for coco test2014 images. 
 
 Run: put images (in coco test2014) in 'input' folder and 'python search_engine.py'
